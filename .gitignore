@@ -1,0 +1,6 @@
+server1/node_modules
+server1/.env
+
+server2/__pycache__
+server2/env
+server2/.env
